@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### 🛠️ Tech Stack
+- **Backend**: PHP, Yii2, Bitrix24
+- **Frontend**: JavaScript, SCSS
+- **Tools**: Docker, Git, Jira
+- **Databases**: MySQL, PostgreSQL
+
 <!--
 **Evireol/Evireol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
