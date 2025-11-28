@@ -2,10 +2,7 @@
 ## 🛠️ Tech Stack & Stats
 
 ### Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=php,yii2,js,html,css,mysql)
-
-### Languages & Frameworks
-![My Stack](https://skillicons.dev/icons?i=php,yii,js,html,css,mysql)
+![My Skills](https://skillicons.dev/icons?i=php,yii2,laravel,js,html,css,mysql)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
