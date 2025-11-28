@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ### 🛠️ Tech Stack
 - **Backend**: PHP, Yii2, Bitrix24
