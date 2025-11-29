@@ -17,8 +17,6 @@
 ![Docker](https://img.shields.io/badge/Docker-10%25-2496ED?logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-20%25-4479A1?logo=mysql&logoColor=white)
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evireol&layout=compact&theme=radical)
 <!--
 **Evireol/Evireol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
